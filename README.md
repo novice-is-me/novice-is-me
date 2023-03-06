@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @novice-is-me
-- 👀 I’m interested in learning python
-- 🌱 I’m currently learning the basic in python but still not good at it
 - 💞️ I’m looking to collaborate on someone who can guide me through this learning
 
 
